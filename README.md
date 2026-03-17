@@ -1,48 +1,120 @@
-<h1 align="center">Opa, e ai! Eu sou o Kaincore</h1>
+<!-- WAVE HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00f7f7,100:0d1117&height=100&section=header"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7F7&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Entusiasta+de+Linux;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
-</p>
+<br>
 
----
+<!-- ASCII TITLE -->
+<div align="center">
 
-### Sobre mim
+```
+██╗  ██╗ █████╗ ██╗███╗   ██╗ ██████╗ ██████╗ ██████╗ ███████╗
+██║ ██╔╝██╔══██╗██║████╗  ██║██╔════╝██╔═══██╗██╔══██╗██╔════╝
+█████╔╝ ███████║██║██╔██╗ ██║██║     ██║   ██║██████╔╝█████╗  
+██╔═██╗ ██╔══██║██║██║╚██╗██║██║     ██║   ██║██╔══██╗██╔══╝  
+██║  ██╗██║  ██║██║██║ ╚████║╚██████╗╚██████╔╝██║  ██║███████╗
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝
+```
 
-- Desenvolvedor apaixonado por tecnologia e open source
-- Entusiasta de Linux e linha de comando
-- Sempre explorando novas tecnologias e linguagens
+<img src="https://komarev.com/ghpvc/?username=kaincore&color=00f7f7&style=flat-square&label=visitors"/>
 
----
-
-### Linguagens e Ferramentas
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cs,python,html,css,typescript,javascript,linux,git,vscode&theme=dark" />
-</p>
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kaincore&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=c9d1d9" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaincore&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7f7&text_color=c9d1d9" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaincore&theme=tokyonight&hide_border=true&background=0d1117&ring=00f7f7&fire=00f7f7&currStreakLabel=00f7f7" />
-</p>
+</div>
 
 ---
 
-### Atividade recente
+<!-- ABOUT -->
+<img align="right" src="COLOQUE_SEU_GIF_AQUI.gif" width="220"/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaincore&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f7f7&line=00f7f7&point=ffffff" />
-</p>
+```
+┌─────────────────────────────────────────┐
+│           kaincore@github:~$            │
+├─────────────────────────────────────────┤
+│  role      → Full Stack Developer       │
+│  os        → Linux (btw)               │
+│  passion   → Anime & Manga             │
+│  focus     → Cybersecurity             │
+│  langs     → C · C# · Python · JS · TS │
+│  motto     → "コードは私の忍術だ"         │
+└─────────────────────────────────────────┘
+```
+
+<br clear="right"/>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kaincore&color=00f7f7&style=flat-square&label=Visitantes" />
-</p>
+<!-- SKILLS -->
+<details>
+<summary><b>⚔️ &nbsp;Skills & Tools</b></summary>
+<br>
+
+```
+┌─── Languages ──────────────────────────────────────────────┐
+│  C  ·  C#  ·  Python  ·  JavaScript  ·  TypeScript         │
+└────────────────────────────────────────────────────────────┘
+┌─── Frontend ───────────────────────────────────────────────┐
+│  HTML  ·  CSS                                              │
+└────────────────────────────────────────────────────────────┘
+┌─── Tools & Environment ────────────────────────────────────┐
+│  Linux  ·  Bash  ·  Git  ·  GitHub  ·  VS Code            │
+└────────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cs,python,javascript,typescript,html,css,linux,bash,git,vscode,github&theme=dark&perline=6"/>
+</div>
+
+</details>
+
+---
+
+<!-- STATS -->
+<details>
+<summary><b>📊 &nbsp;GitHub Stats</b></summary>
+<br>
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=kaincore&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7f7&icon_color=00f7f7&text_color=c9d1d9&ring_color=00f7f7"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaincore&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7f7&text_color=c9d1d9"/>
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaincore&theme=tokyonight&hide_border=true&background=0d1117&ring=00f7f7&fire=00f7f7&currStreakLabel=00f7f7"/>
+</div>
+</details>
+
+---
+
+<!-- CONTACT -->
+<img align="left" src="COLOQUE_SEU_GIF_AQUI_2.gif" width="180"/>
+
+<br>
+
+**「 Contact 」**
+
+```
+  ╔══════════════════════════════╗
+  ║  github   → /kaincore        ║
+  ║  email    → seu@email.com    ║
+  ║  discord  → seuusuario       ║
+  ╚══════════════════════════════╝
+```
+
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=00f7f7)](https://github.com/kaincore)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=00f7f7)](mailto:SEU@EMAIL.COM)
+[![Discord](https://img.shields.io/badge/Discord-0d1117?style=flat-square&logo=discord&logoColor=00f7f7)](https://discord.com/users/SEU_ID)
+
+<br clear="left"/>
+
+---
+
+<!-- FOOTER -->
+<div align="center">
+
+```
+  ╔═══════════════════════════════════════╗
+  ║   Obrigado por visitar meu perfil!   ║
+  ║      "See you, space cowboy..." 🚀   ║
+  ╚═══════════════════════════════════════╝
+```
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00f7f7,100:0d1117&height=80&section=footer"/>
