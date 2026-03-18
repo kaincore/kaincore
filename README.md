@@ -16,9 +16,6 @@
   </tr>
 </table>
 
-
-<br clear="both">
-
 ###
 
 <br clear="both">
@@ -119,7 +116,7 @@
   <img src="https://streak-stats.demolab.com?user=kaincore&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-<div align="center">
+<div align="left">
   <a href="https://discord.gg/r65DVszd" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
