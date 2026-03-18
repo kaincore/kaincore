@@ -15,7 +15,7 @@
     <td valign="middle"><p>kaincore@github<br>-------------------------<br>🏫 UNICID — ADS<br>📖 Into russian classical literature<br>🎧 Heavy metal enjoyer<br>🎮 Singleplayer games > everything<br>🧠 Deep appreciation for mathematics and its complexity<br>♟️ Chess rating: ~1800</p></td>
   </tr>
 </table>
-###
+
 
 <br clear="both">
 
