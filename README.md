@@ -8,7 +8,7 @@
 
 ###
 
-<img align="left" height="200" src="https://giffiles.alphacoders.com/171/171378.gif"  />
+<img align="left" height="200" style="margin-right: 20px" src="https://giffiles.alphacoders.com/171/171378.gif"  />
 
 ###
 
