@@ -10,19 +10,10 @@
 
 <img align="left" height="200" src="https://giffiles.alphacoders.com/171/171378.gif"  />
 
-<img width="20" />
+###
 
-<p align="left">
-<br>
-kaincore@github<br>
--------------------------<br>
-🏫 UNICID — ADS<br>
-📖 Into russian classical literature<br>
-🎧 Heavy metal enjoyer<br>
-🎮 Singleplayer games > everything<br>
-🧠 Deep appreciation for mathematics and its complexity<br>
-♟️ Chess rating: ~1800
-</p>
+<p align="left">kaincore@github<br>-------------------------<br>🏫 UNICID — ADS<br>📖 Into russian classical literature<br>🎧 Heavy metal enjoyer<br>🎮 Singleplayer games > everything<br>🧠 Deep appreciation for mathematics and its complexity<br>♟️ Chess rating: ~1800</p>
+
 ###
 
 <br clear="both">
