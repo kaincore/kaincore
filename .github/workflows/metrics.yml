@@ -13,6 +13,7 @@ jobs:
     permissions:
       contents: write
     steps:
+      # card principal
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -34,4 +35,53 @@ jobs:
           plugin_languages_details: percentage
           plugin_languages_ignored: html, css
 
-         
+      # trecho aleatório de código + frase fortune
+      - uses: lowlighter/metrics@latest
+        continue-on-error: true
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: kaincore
+          filename: metrics.extras.svg
+          template: classic
+          base: ""
+          config_timezone: America/Sao_Paulo
+          plugin_code: yes
+          plugin_code_lines: 12
+          plugin_code_load: 400
+          plugin_fortune: yes
+
+      # Steam (precisa do secret STEAM_TOKEN)
+      - uses: lowlighter/metrics@latest
+        continue-on-error: true
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: kaincore
+          filename: metrics.steam.svg
+          template: classic
+          base: ""
+          plugin_steam: yes
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
+          plugin_steam_user: "76561199059283350"
+          plugin_steam_sections: player, most-played, recently-played
+          plugin_steam_games_limit: 2
+          plugin_steam_recent_games_limit: 2
+          plugin_steam_achievements_limit: 2
+
+  snake:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
