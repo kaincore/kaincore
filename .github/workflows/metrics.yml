@@ -22,8 +22,8 @@ jobs:
           template: classic
           config_timezone: America/Sao_Paulo
 
-          # bloco principal: cabeçalho, atividade, comunidade, repositórios
-          base: header, activity, community, repositories
+          # cabeçalho (atividade/comunidade/repos ficam no card terminal)
+          base: header
 
           # calendário isométrico de commits
           plugin_isocalendar: yes
@@ -35,7 +35,7 @@ jobs:
           plugin_languages_details: percentage
           plugin_languages_ignored: html, css
 
-      # card estilo terminal: linhas de código adicionadas/removidas
+      # card estilo terminal: atividade, comunidade, repos e linhas de código
       - uses: lowlighter/metrics@latest
         continue-on-error: true
         with:
@@ -43,7 +43,7 @@ jobs:
           user: kaincore
           filename: metrics.terminal.svg
           template: terminal
-          base: header
+          base: activity, community, repositories
           config_timezone: America/Sao_Paulo
           plugin_lines: yes
           plugin_lines_sections: base

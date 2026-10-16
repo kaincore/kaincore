@@ -24,13 +24,13 @@
 
 <table>
 <tr>
-<td valign="top" width="50%"><img src="./metrics.svg?v=3" width="100%" alt="GitHub metrics" /></td>
+<td valign="top" width="50%"><img src="./metrics.svg?v=4" width="100%" alt="GitHub metrics" /></td>
 <td valign="top" width="50%"><img src="./metrics.steam.svg?v=4" width="100%" alt="Steam" /></td>
 </tr>
 </table>
 
 <div align="center">
-<img src="./metrics.terminal.svg" alt="Terminal" />
+<img src="./metrics.terminal.svg?v=2" alt="Terminal" />
 </div>
 
 <details>
