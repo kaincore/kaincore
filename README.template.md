@@ -24,8 +24,8 @@
 
 <table>
 <tr>
-<td valign="top" width="50%"><img src="./metrics.svg?v=5" width="100%" alt="GitHub metrics" /></td>
-<td valign="top" width="50%"><img src="./metrics.steam.svg?v=4" width="100%" alt="Steam" />
+<td valign="top" width="50%"><img src="./metrics.svg?v=6" width="100%" alt="GitHub metrics" /></td>
+<td valign="top" width="50%"><img src="./metrics.steam.svg?v=5" width="100%" alt="Steam" />
 <br><br>
 <p align="center"><b>Languages &amp; Tools</b><br><sub>what I build, deploy and break things with</sub></p>
 <p align="center"><img src="https://skillicons.dev/icons?i=cs,dotnet,php,py,ts,js,mysql,nodejs,linux,arch,ubuntu,windows,docker,git,githubactions,bash,powershell,vscode&perline=6" alt="Languages and tools" /></p>

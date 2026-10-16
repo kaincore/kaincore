@@ -32,10 +32,16 @@ jobs:
           # linguagens mais usadas
           plugin_languages: yes
           plugin_languages_limit: 6
+          plugin_languages_sections: most-used, recently-used
           plugin_languages_details: percentage
           plugin_languages_ignored: html, css
 
-      # Steam + fortune (precisa do secret STEAM_TOKEN)
+          # conquistas (ranks por atividade)
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: B
+
+      # Steam (precisa do secret STEAM_TOKEN)
       - uses: lowlighter/metrics@latest
         continue-on-error: true
         with:
@@ -52,7 +58,6 @@ jobs:
           plugin_steam_recent_games_limit: 1
           plugin_steam_achievements_limit: 0
           plugin_steam_games_ignored: 2669320, 3405690, 271590, 3240220   # EA FC 25/26, GTA V (Legacy e Enhanced)
-          plugin_fortune: yes
 
       # README gerado a partir do README.template.md (template markdown)
       - uses: lowlighter/metrics@latest
