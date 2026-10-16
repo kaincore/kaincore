@@ -20,9 +20,9 @@
 
 <img src="./metrics.svg" alt="GitHub metrics" />
 
-<img src="./metrics.extras.svg" alt="Code snippet and fortune" />
+<img src="./metrics.extras.svg?v=2" alt="Code snippet and fortune" />
 
-<img src="./metrics.steam.svg" alt="Steam" />
+<img src="./metrics.steam.svg?v=2" alt="Steam" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaincore/kaincore/output/github-snake-dark.svg" />
