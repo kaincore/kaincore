@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<code>$ git log --author=kayn | wc -l</code> → <code>906</code> commits across <code>7</code> repositories
+<code>$ git log --author=kayn | wc -l</code> → <code>907</code> commits across <code>7</code> repositories
 
 </div>
 
@@ -29,27 +29,9 @@
 </tr>
 </table>
 
-<pre>
-                   -`
-                  .o+`                    kayn@archlinux
-                 `ooo/                    --------------
-                `+oooo:                   OS      Arch Linux x86_64
-               `+oooooo:                  Host    Ryzen 5 5600 · RX 9060 XT
-               -+oooooo+:                 Homelab Ryzen 5 5500 (WIP)
-             `/:-:++oooo+:                Editor  VS Code
-            `/++++/+++++++:               Langs   C# · PHP · Python · TypeScript
-           `/++++++++++++++:              Agents  Project Atena
-          `/+++ooooooooooooo/`            Reading Dostoevsky
-         ./ooosssso++osssssso+`           Uptime  powered by coffee
-        .oossssso-````/ossssss+`
-       -osssssso.      :ssssssso.
-      :osssssss/        osssso+++.
-     /ossssssss/        +ssssooo/-
-   `/ossssso+/:-        -:/+osssso+-
-  `+sso+:-`                 `.-/+oso:
- `++:.                           `-/+/
- .`                                 `/
-</pre>
+<div align="center">
+<img src="./metrics.lines.svg" width="100%" alt="Lines of code history" />
+</div>
 
 <details>
 <summary><b>Starred topics</b></summary>
