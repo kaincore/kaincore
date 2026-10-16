@@ -18,20 +18,38 @@
 
 <div align="center">
 
-<code>$ git log --author=kayn | wc -l</code> → <code>905</code> commits across <code>7</code> repositories
+<code>$ git log --author=kayn | wc -l</code> → <code>906</code> commits across <code>7</code> repositories
 
 </div>
 
 <table>
 <tr>
-<td valign="top" width="50%"><img src="./metrics.svg?v=4" width="100%" alt="GitHub metrics" /></td>
+<td valign="top" width="50%"><img src="./metrics.svg?v=5" width="100%" alt="GitHub metrics" /></td>
 <td valign="top" width="50%"><img src="./metrics.steam.svg?v=4" width="100%" alt="Steam" /></td>
 </tr>
 </table>
 
-<div align="center">
-<img src="./metrics.terminal.svg?v=2" alt="Terminal" />
-</div>
+<pre>
+                   -`
+                  .o+`                    kayn@archlinux
+                 `ooo/                    --------------
+                `+oooo:                   OS      Arch Linux x86_64
+               `+oooooo:                  Host    Ryzen 5 5600 · RX 9060 XT
+               -+oooooo+:                 Homelab Ryzen 5 5500 (WIP)
+             `/:-:++oooo+:                Editor  VS Code
+            `/++++/+++++++:               Langs   C# · PHP · Python · TypeScript
+           `/++++++++++++++:              Agents  Project Atena
+          `/+++ooooooooooooo/`            Reading Dostoevsky
+         ./ooosssso++osssssso+`           Uptime  powered by coffee
+        .oossssso-````/ossssss+`
+       -osssssso.      :ssssssso.
+      :osssssss/        osssso+++.
+     /ossssssss/        +ssssooo/-
+   `/ossssso+/:-        -:/+osssso+-
+  `+sso+:-`                 `.-/+oso:
+ `++:.                           `-/+/
+ .`                                 `/
+</pre>
 
 <details>
 <summary><b>Starred topics</b></summary>
