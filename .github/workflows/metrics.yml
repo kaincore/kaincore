@@ -35,19 +35,7 @@ jobs:
           plugin_languages_details: percentage
           plugin_languages_ignored: html, css
 
-      # frase fortune
-      - uses: lowlighter/metrics@latest
-        continue-on-error: true
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: kaincore
-          filename: metrics.extras.svg
-          template: classic
-          base: ""
-          config_timezone: America/Sao_Paulo
-          plugin_fortune: yes
-
-      # Steam (precisa do secret STEAM_TOKEN)
+      # Steam + fortune (precisa do secret STEAM_TOKEN)
       - uses: lowlighter/metrics@latest
         continue-on-error: true
         with:
@@ -61,9 +49,10 @@ jobs:
           plugin_steam_user: "76561199059283350"
           plugin_steam_sections: player, most-played, recently-played
           plugin_steam_games_limit: 2
-          plugin_steam_recent_games_limit: 2
-          plugin_steam_achievements_limit: 2
+          plugin_steam_recent_games_limit: 1
+          plugin_steam_achievements_limit: 0
           plugin_steam_games_ignored: 2669320, 3405690   # EA FC 25 e 26
+          plugin_fortune: yes
 
   snake:
     runs-on: ubuntu-latest

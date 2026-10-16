@@ -16,17 +16,18 @@
 
 <br clear="right" />
 
+<table>
+<tr>
+<td valign="top" width="50%"><img src="./metrics.svg" width="100%" alt="GitHub metrics" /></td>
+<td valign="top" width="50%"><img src="./metrics.steam.svg?v=3" width="100%" alt="Steam" /></td>
+</tr>
+</table>
+
 <div align="center">
-
-<img src="./metrics.svg" alt="GitHub metrics" />
-
-<img src="./metrics.extras.svg?v=2" alt="Code snippet and fortune" />
-
-<img src="./metrics.steam.svg?v=2" alt="Steam" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaincore/kaincore/output/github-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/kaincore/kaincore/output/github-snake.svg" alt="Contribution snake" />
+  <img src="https://raw.githubusercontent.com/kaincore/kaincore/output/github-snake.svg" width="100%" alt="Contribution snake" />
 </picture>
 
 </div>
