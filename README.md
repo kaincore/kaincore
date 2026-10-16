@@ -1,1 +1,11 @@
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=34&duration=4000&pause=600&color=5E81AC&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=110&lines=Hello+there;I'm+Kayn%2C+hungry+to+learn+and+build" alt="Hello there. I'm Kayn, hungry to learn and build." /> </div> <pre> <b>role</b> ADS student · back-end dev · homelab tinkerer <b>stack</b> C# / .NET · PHP · Python · Linux · Docker <b>building</b> eSIC helpdesk · HR Portal · Project Atena (AI agents) <b>exploring</b> cybersecurity · Go · Rust <b>off-clock</b> Dostoevsky · heavy metal · coffee at 2am </pre> <!-- Add your links when ready: <div align="center"> <a href="https://www.linkedin.com/in/YOUR-USER"><img src="https://img.shields.io/badge/linkedin-5E81AC?style=flat-square" /></a> <a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/email-5E81AC?style=flat-square" /></a> </div> -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=34&duration=4000&pause=600&color=5E81AC&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=110&lines=Hello+there;I'm+Kayn%2C+hungry+to+learn+and+build" alt="Hello there. I'm Kayn, hungry to learn and build." />
+
+<pre>ADS student · Back-end dev · Homelab tinkerer<br>C# / .NET · PHP · Python · Linux · Docker<br>Building eSIC · HR Portal · Project Atena (AI agents)<br>Exploring cybersecurity · Go · Rust<br>Off the clock: Dostoevsky · Heavy metal · Coffee at 2am</pre>
+
+<br>
+
+<img src="./metrics.svg" alt="GitHub metrics" />
+
+</div>
