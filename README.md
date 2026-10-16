@@ -6,7 +6,7 @@
 
 <pre>ADS student · Back-end dev · Homelab tinkerer<br>C# / .NET · PHP · Python · Linux · Docker<br>Building eSIC · HR Portal · Project Atena (AI agents)<br>Exploring cybersecurity · Go · Rust<br>Off the clock: Dostoevsky · Heavy metal · Coffee at 2am</pre>
 
-<img src="./assets/mimikyu.gif?v=2" width="120" alt="" />
+<img src="./assets/mimikyu.gif?v=3" width="90" alt="" />
 
 <br>
 
