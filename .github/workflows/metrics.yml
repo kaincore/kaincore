@@ -63,6 +63,7 @@ jobs:
           plugin_steam_games_limit: 2
           plugin_steam_recent_games_limit: 2
           plugin_steam_achievements_limit: 2
+          plugin_steam_games_ignored: 2669320, 3405690   # EA FC 25 e 26
 
   snake:
     runs-on: ubuntu-latest
