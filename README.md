@@ -18,7 +18,7 @@
 
 <div align="center">
 
-<code>$ git log --author=kayn | wc -l</code> → <code>907</code> commits across <code>7</code> repositories
+<code>$ git log --author=kayn | wc -l</code> → <code>908</code> commits across <code>7</code> repositories
 
 </div>
 
@@ -29,9 +29,20 @@
 </tr>
 </table>
 
-<div align="center">
-<img src="./metrics.lines.svg" width="100%" alt="Lines of code history" />
-</div>
+<pre>
+        *              .            (  )          .          *
+   .          *                      ''       *         .
+                       /\                            .
+          /\          /  \     /\        _|_                 *
+         /  \   /\   /    \   /  \      |___|        .
+        /    \ /  \ /  /\  \ /    \     | o |                  .
+       /  /\  \    /  /  \  \  /\  \    |   |   /\
+      /  /  \  \  /  /    \  \/  \  \   | o |  /  \     /\
+     /  /    \  \/  /      \  \   \  \  |   | /    \   /  \
+  __/__/______\__\_/________\__\___\__\_|___|/______\_/____\__
+     ~~~    ~~~~      ~~~      ~~~~       ~~~     ~~~~    ~~~
+            . . . the road goes on, and so do I . . .
+</pre>
 
 <details>
 <summary><b>Starred topics</b></summary>
