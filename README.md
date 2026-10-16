@@ -16,12 +16,28 @@
 
 <br clear="right" />
 
+<div align="center">
+
+<code>$ git log --author=kayn | wc -l</code> → <code>903</code> commits across <code>7</code> repositories
+
+</div>
+
 <table>
 <tr>
 <td valign="top" width="50%"><img src="./metrics.svg?v=2" width="100%" alt="GitHub metrics" /></td>
 <td valign="top" width="50%"><img src="./metrics.steam.svg?v=4" width="100%" alt="Steam" /></td>
 </tr>
 </table>
+
+<details>
+<summary><b>Starred topics</b></summary>
+
+**[📌 ](https://github.com/kaincore?tab=stars)**
+
+No starred topics
+
+
+</details>
 
 <div align="center">
 
