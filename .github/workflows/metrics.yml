@@ -35,7 +35,7 @@ jobs:
           plugin_languages_details: percentage
           plugin_languages_ignored: html, css
 
-      # trecho aleatório de código + frase fortune
+      # frase fortune
       - uses: lowlighter/metrics@latest
         continue-on-error: true
         with:
@@ -45,9 +45,6 @@ jobs:
           template: classic
           base: ""
           config_timezone: America/Sao_Paulo
-          plugin_code: yes
-          plugin_code_lines: 12
-          plugin_code_load: 400
           plugin_fortune: yes
 
       # Steam (precisa do secret STEAM_TOKEN)
