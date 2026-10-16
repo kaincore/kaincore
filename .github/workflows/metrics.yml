@@ -1,0 +1,40 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 9 * * *"   # todo dia, 06:00 BRT
+  workflow_dispatch:      # botão "Run workflow" manual
+  push:
+    branches: [main, master]
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: kaincore
+          filename: metrics.svg
+          template: classic
+          config_timezone: America/Sao_Paulo
+
+          # bloco principal: cabeçalho, atividade, comunidade, repositórios
+          base: header, activity, community, repositories
+
+          # calendário isométrico de commits
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # linguagens mais usadas
+          plugin_languages: yes
+          plugin_languages_limit: 6
+          plugin_languages_details: percentage
+          plugin_languages_ignored: html, css
+
+          # horários e dias em que você mais coda
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_habits_facts: no
