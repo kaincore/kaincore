@@ -15,7 +15,7 @@
 
 <table>
 <tr>
-<td valign="top" width="50%"><img src="./metrics.svg?v=7" width="100%" alt="GitHub metrics" /></td>
+<td valign="top" width="50%"><img src="./metrics.svg?v=8" width="100%" alt="GitHub metrics" /></td>
 <td valign="top" width="50%"><img src="./metrics.steam.svg?v=5" width="100%" alt="Steam" />
 <br><br>
 <p align="center"><b>Languages &amp; Tools</b><br><sub>what I build, deploy and break things with</sub></p>

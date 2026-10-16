@@ -35,11 +35,6 @@ jobs:
           plugin_languages_details: percentage
           plugin_languages_ignored: html, css
 
-          # conquistas (ranks por atividade)
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: B
-
       # Steam (precisa do secret STEAM_TOKEN)
       - uses: lowlighter/metrics@latest
         continue-on-error: true
