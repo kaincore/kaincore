@@ -18,14 +18,17 @@
 
 <div align="center">
 
-<code>$ git log --author=kayn | wc -l</code> → <code>908</code> commits across <code>7</code> repositories
+<code>$ git log --author=kayn | wc -l</code> → <code>909</code> commits across <code>7</code> repositories
 
 </div>
 
 <table>
 <tr>
 <td valign="top" width="50%"><img src="./metrics.svg?v=5" width="100%" alt="GitHub metrics" /></td>
-<td valign="top" width="50%"><img src="./metrics.steam.svg?v=4" width="100%" alt="Steam" /></td>
+<td valign="top" width="50%"><img src="./metrics.steam.svg?v=4" width="100%" alt="Steam" />
+<br><br>
+<p align="center"><img src="https://skillicons.dev/icons?i=cs,dotnet,php,py,ts,js,mysql,nodejs,linux,arch,ubuntu,windows,docker,git,githubactions,bash,powershell,vscode&perline=6" alt="Languages and tools" /></p>
+</td>
 </tr>
 </table>
 
