@@ -1,4 +1,4 @@
-<img align="right" src="./assets/argonath.jpg" width="220" alt="" />
+<img align="right" src="./assets/raven.png" width="200" alt="" />
 
 <div align="center">
 
@@ -6,12 +6,13 @@
 
 <pre>ADS student · Back-end dev · Homelab tinkerer<br>Building eSIC · HR Portal · Project Atena (AI agents)<br>Exploring cybersecurity · Go · Rust<br>Off the clock: Dostoevsky · Heavy metal · Coffee at 2am</pre>
 
-<img src="./assets/mimikyu.gif?v=4" width="90" alt="" />
 
 
 </div>
 
 <br clear="right" />
+
+<p align="center"><img src="./assets/creation-hands.png" width="80%" alt="" /></p>
 
 <table>
 <tr>
@@ -44,7 +45,7 @@
 </pre>
 
 </td>
-<td valign="middle" width="35%"><img src="./assets/gandalf.jpeg" width="100%" alt="" /></td>
+<td valign="middle" width="30%"><img src="./assets/hand-book.png" width="100%" alt="" /></td>
 </tr>
 </table>
 
