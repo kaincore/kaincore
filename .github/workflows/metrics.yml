@@ -34,7 +34,4 @@ jobs:
           plugin_languages_details: percentage
           plugin_languages_ignored: html, css
 
-          # horários e dias em que você mais coda
-          plugin_habits: yes
-          plugin_habits_charts: yes
-          plugin_habits_facts: no
+         
